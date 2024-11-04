@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#scriptsList {
+    cursor: pointer;
+}
+
+#scriptContent {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#scriptOutput {
+    margin-top: 20px;
+}

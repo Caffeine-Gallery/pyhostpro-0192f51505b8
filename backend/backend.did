@@ -1,0 +1,5 @@
+service : {
+  getScript: (text) -> (opt text) query;
+  listScripts: () -> (vec text) query;
+  uploadScript: (text, text) -> ();
+}
